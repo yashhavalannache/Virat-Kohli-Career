@@ -4,9 +4,7 @@ This repository contains an interactive **Power BI Dashboard** (`.pbix` file) th
 The dashboard is designed to make complex data easy to understand through clean visuals, KPIs, and analytics.  
 
 ---
-## 🖼️ Dashboard Preview
-
-## 📸 Dashboard Views
+## 🖼️ Dashboard Previews
 
 | Average Strike Rate | ERA | Runs vs Teams |
 |---------------------|-----|---------------|
