@@ -60,17 +60,17 @@ Tracks his growth from fearless youngster to master chaser to seasoned leader, h
 A tribute beyond numbers — celebrating the fire, passion, and spirit of Virat Kohli, inspiring millions beyond the stats.
 
 ---
+
 ## 📸 Dashboard Views  
 
 | Cover Page | ERA | Average Strike Rate |
 |------------|-----|-------------------|
-| ![Cover Page](images/cover.png) | ![ERA](images/era.png) | ![Average Strike Rate](images/avg_sr.png) |
+| <img src="images/cover.png" width="300"/> | <img src="images/era.png" width="300"/> | <img src="images/avg_sr.png" width="300"/> |
 
 | Runs vs Teams | Tournament Analysis | Thank You Page |
 |---------------|-------------------|----------------|
-| ![Runs vs Teams](images/runsvsteams.png) | ![Tournament](images/tournament.png) | ![Thanks](images/thanks.png) |
+| <img src="images/runsvsteams.png" width="300"/> | <img src="images/tournament.png" width="300"/> | <img src="images/thanks.png" width="300"/> |
 
----
 
 ---
 
