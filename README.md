@@ -6,8 +6,16 @@ The dashboard is designed to make complex data easy to understand through clean 
 ---
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
-![Dashboard Screenshot](runs.png)
+## 📸 Dashboard Views
+
+| Average Strike Rate | ERA | Runs vs Teams |
+|---------------------|-----|---------------|
+| ![Average Strike Rate](images/avg_sr.png) | ![ERA](images/era.png) | ![Runs vs Teams](images/runsvsteams.png) |
+
+| Tournament Analysis | Thank You Page |
+|---------------------|----------------|
+| ![Tournament](images/tournament.png) | ![Thanks](images/thanks.png) |
+
 
 ---
 
