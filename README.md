@@ -46,23 +46,24 @@ This dashboard is my way of honoring that journey — **letting data narrate the
 
 ---
 
-## ✨ Dashboard Insights  
-The Power BI dashboard captures multiple dimensions of **Virat Kohli’s cricketing journey**, each visual designed to reflect not just numbers, but milestones, emotions, and evolution.  
+## ✨ Dashboard Insights
 
-- 📈 **Runs vs Teams**  
-  This section highlights Virat’s consistency across opponents. Whether it’s his unmatched record against Australia, his dominance over Sri Lanka, or his epic battles with Pakistan, the numbers showcase his ability to rise against every challenge. It underlines why he is called the **“Run Machine”** — scoring not just often, but against the toughest of teams in pressure situations.  
+The Power BI dashboard explores Virat Kohli’s cricketing journey, turning numbers into milestones, emotions, and evolution.
 
-- 🎯 **Average & Strike Rate**  
-  A true measure of batting greatness lies in balancing aggression with consistency. Here, Kohli’s averages and strike rates across formats reveal his adaptability — the calm chaser in ODIs, the aggressive striker in T20s, and the technically sound batsman in Tests. This visual shows how he has kept pace with the modern era while staying true to classical batting values.  
+📈 **Runs vs Teams**
+Highlights Virat’s consistency against all opponents. From Australia to Pakistan, the numbers show why he’s the “Run Machine”, thriving in pressure situations.
 
-- 🏆 **Tournament Analysis**  
-  Big players are remembered for their performances on big stages. This section showcases Virat’s heroics in ICC tournaments and high-pressure series — moments where he carried the team’s hopes and often single-handedly turned games around. From World Cups to Champions Trophies, the data tells the story of a man who thrives under the brightest lights.  
+🎯 **Average & Strike Rate**
+Shows his balance of aggression and consistency across formats — the calm chaser in ODIs, aggressive striker in T20s, and technically sound batsman in Tests.
 
-- ⏳ **Era-wise Evolution**  
-  Every legend has phases of growth, maturity, and transformation. This part of the dashboard tracks Virat’s evolution — from the fearless youngster who burst onto the scene, to the calculated chaser who mastered pressure, and finally to the composed senior guiding the next generation. It’s a timeline of grit and adaptability, showing how he has stayed at the top for over a decade.  
+🏆 **Tournament Analysis**
+Captures heroics in ICC tournaments and high-pressure series, reflecting moments where he carried the team and turned games around.
 
-- 🙏 **Thank You Page**  
-  Beyond the numbers lies emotion. This final slide is not analytics, but a **tribute** — acknowledging that statistics can never fully capture the fire in his eyes, the roar after a century, or the way he inspires millions. It’s a reminder that this project is not just about cricketing data, but about celebrating **the spirit of Virat Kohli**.  
+⏳ **Era-wise Evolution**
+Tracks his growth from fearless youngster to master chaser to seasoned leader, highlighting grit, adaptability, and longevity.
+
+🙏 **Thank You Page**
+A tribute beyond numbers — celebrating the fire, passion, and spirit of Virat Kohli, inspiring millions beyond the stats.
 
 ---
 
