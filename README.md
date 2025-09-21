@@ -31,10 +31,10 @@ From leading India to victory at the **2008 U-19 World Cup**, to becoming the fa
 - 🏆 **World Cup Winner (2011)** – Played a crucial role in India’s historic triumph.  
 - 👑 **Chase Master** – Known for his ice-cold temperament in run-chases, rewriting how pressure situations are handled.  
 - 💪 **Fitness Icon** – Revolutionized Indian cricket’s approach to fitness, turning the team into one of the fittest in the world.  
-- 🐐 **Modern-Day Great** – With **70+ international centuries** and countless records, his name is etched among cricket’s immortals.  
-- 🎖️ **Former Captain** – Led India across formats, instilling aggression, belief, and an unrelenting will to win.  
+- 🐐 **Modern-Day Great** – With **80+ international centuries** and countless records, his name is etched among cricket’s immortals.  
+- 🎖️ **Former Captain** – Led India across formats, instilling aggression, belief, and an unrelenting will to win. Under his leadership, Team India rose from 7th in Test rankings to 1st, showcasing his strategic brilliance and ability to inspire a team to reach the pinnacle.
 
-But Kohli is more than just numbers:  
+**But Kohli is more than just numbers:**  
 - Every **cover drive** is poetry in motion.  
 - Every **century** is a story of resilience.  
 - Every **roar** after victory echoes his burning passion.  
@@ -43,7 +43,6 @@ But Kohli is more than just numbers:
 He is an emotion that unites fans, a symbol of relentless hard work, and an inspiration to millions who believe that **dreams, when chased with passion, become destiny**.  
 
 This dashboard is my way of honoring that journey — **letting data narrate the story of a legend, one run at a time**.  
- 
 
 ---
 
